@@ -9,8 +9,7 @@
 🗄️ **Base de Dados:** SQL Server  
 
 📌 **Projeto:** CommuniCare (plataforma web de comunidades)  
-
-📈 À procura de estágio em desenvolvimento de software  
+ 
 ---
 
 ## 📫 Contacto
