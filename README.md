@@ -1,30 +1,17 @@
-# Apresentação
+## 👋 João Barbosa
 
-👋 Olá! Eu sou o João Barbosa
+🎓 Finalista em Engenharia de Sistemas Informáticos (IPCA)
+💻 Desenvolvedor com foco em **Back-End e Front-End**
+🚀 Interessado em criar soluções completas e escaláveis
 
-🎓 Estudante finalista de Engenharia de Sistemas Informáticos no IPCA, com forte interesse em desenvolvimento de software e integração de sistemas.
+🔧 **Back-End:** C, C#, C++, Java, Python, .NET, REST/SOAP
+🎨 **Front-End:** HTML, CSS, JavaScript, React
+🗄️ **Base de Dados:** SQL Server
 
-💻 Tenho experiência prática no desenvolvimento de aplicações e sistemas, trabalhando com tecnologias como .NET, React, APIs REST/SOAP e bases de dados SQL Server. Ao longo do meu percurso académico, desenvolvi vários projetos que aplicam princípios de engenharia de software (como SOLID) e arquiteturas como MVC e N-Tier.
+📌 **Projeto:** CommuniCare (plataforma web de comunidades)
 
-🚀 Gosto de transformar ideias em soluções tecnológicas funcionais e estou sempre à procura de aprender novas tecnologias e melhorar as minhas competências.
-
----
-
-## 🔧 Tecnologias & Ferramentas
-
-- **Linguagens:** C, C#, C++, Java, Python, JavaScript, Kotlin  
-- **Web:** HTML, CSS, React  
-- **Backend:** .NET, REST APIs, SOAP  
-- **Bases de Dados:** SQL Server  
-- **Ferramentas:** Git, GitHub, Trello  
-- **Metodologias:** Scrum, Kanban  
-
----
-
-## 📌 Projetos em destaque
-
-- **CommuniCare** – Plataforma web em .NET MVC para gestão de comunidades  
-- **Loja Social** – Plataforma em Kotlin para gestão da loja Social do IPCA  
+📈 À procura de estágio em desenvolvimento de software
+ 
 
 ---
 
