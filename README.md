@@ -5,7 +5,7 @@
 🚀 Interessado em criar soluções completas e escaláveis  
 
 🔧 **Back-End:** C, C#, C++, Java, Python, .NET, REST/SOAP  
-🎨 **Front-End:** HTML, CSS, JavaScript, React  
+🎨 **Front-End:** HTML, CSS, JavaScript, TypeScript, React  
 🗄️ **Base de Dados:** SQL Server  
 
 📌 **Projeto:** CommuniCare (plataforma web de comunidades)  
